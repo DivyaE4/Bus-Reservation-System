@@ -1,5 +1,7 @@
 "# Bus-Reservation-System"
+
 ADT Used:
+
 BINARY SEARCH TREE:
 Storing customer information based on their unique user ID, which is a combination of bus number and seat number.
 Searching for customer information based on the user ID during reservation and cancellation.
